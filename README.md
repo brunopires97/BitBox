@@ -9,4 +9,4 @@
 **Email**: b.pires.lourenco@gmail.com
 
 
-Jogo em 2D criado em C++ utilizando OpenGL.
+Código fonte de um jogo em 2D criado em C++ utilizando OpenGL.
